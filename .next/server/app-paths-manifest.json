@@ -1,0 +1,8 @@
+{
+  "/api/getpapers/route": "app/api/getpapers/route.js",
+  "/api/login/route": "app/api/login/route.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/page": "app/page.js",
+  "/mypapers/page": "app/mypapers/page.js",
+  "/(reviewer)/dashboard/page": "app/(reviewer)/dashboard/page.js"
+}
